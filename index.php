@@ -1,0 +1,1 @@
+<?php echo ("<script>setTimeout(function(){ window.location.replace('login.php') }, 10); </script>");?>

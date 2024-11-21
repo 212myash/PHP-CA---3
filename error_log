@@ -1,0 +1,9 @@
+[16-Aug-2024 13:01:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/phpscine/public_html/cryptoportfolio/php/db.php:2
+Stack trace:
+#0 /home2/phpscine/public_html/cryptoportfolio/login.php(5): include()
+#1 {main}
+  thrown in /home2/phpscine/public_html/cryptoportfolio/php/db.php on line 2
+[16-Aug-2024 13:02:55 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user '
+phpscine_cryptop'@'localhost' (using password: YES) in /home2/phpscine/public_html/cryptoportfolio/php/db.php on line 3
+[16-Aug-2024 13:03:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user '
+phpscine_cryptop'@'localhost' (using password: YES) in /home2/phpscine/public_html/cryptoportfolio/php/db.php on line 3
